@@ -1,0 +1,10 @@
+# Python Programming Introduction
+
+# Programming Language : The Language Which is Used To Communicate With Computers.
+
+# Python : It is a Programming Language.
+
+# Machine/Computer Language - Binary Language
+
+# Why Python Programming Language To Learn : Popular For Webdevelopment, AI/ML, Easy To Learn, 
+High Level Sector use Cases And Many More.
